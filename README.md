@@ -26,15 +26,8 @@ JavaScript — interatividade (ex: abrir/fechar perguntas do FAQ)
 
 
 📁 Estrutura do projeto
-PetLife/
-├── img/                # Imagens e ícones utilizados no site
-├── .vscode/            # Configurações do editor
-├── index.html          # Página principal
-├── contato.html         # Página de contato
-├── style.css           # Estilos do site
-├── script.js           # Scripts de interatividade
-├── LICENSE             # Licença do projeto
-└── README.md
+
+<img width="688" height="257" alt="image" src="https://github.com/user-attachments/assets/cdcc392e-d0d3-4dc7-8b64-a3c2cd275b79" />
 
 🚀 Como executar o projeto
 
